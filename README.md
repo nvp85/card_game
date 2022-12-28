@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a learning project I made during Nucamp coding bootcamp course "Python Fundamentals"
+This is a simple card game with a text-based user interface, it's a learning project I made during Nucamp coding bootcamp course "Python Fundamentals"
 
 ### Description of the game
 
